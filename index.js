@@ -7,5 +7,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(8080, () => {
-  console.log("Server Running");
+  console.log("Server Running",8080);
 });
